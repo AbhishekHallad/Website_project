@@ -1,0 +1,15 @@
+
+        h1{
+            color: antiquewhite
+        }
+
+div h1{
+   color: aqua
+        } 
+}
+    
+/* hyphen for id*/
+
+#nameofid{
+    color: aliceblue;
+}
